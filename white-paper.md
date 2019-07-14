@@ -36,6 +36,20 @@
 
 https://www.i-am-avatar.com/site/about
 
+С целью благоустройства нашего дома планеты Земля и наведения Божественного порядка начинается введение системы управления ресурсами планеты Земля. Для этого будет осуществляться аудит, проверка и регистрация субъектов управления и ресурсов. Для обеспечения этого создаются реестры:
+~ Реестр заявок на правообладание планетой Земля
+~ Реестр правообладателей планеты Земля
+~ Реестр Божественных Стандартов (БОСТ)
+~ Реестр идентификаторов Аватаров
+~ Реестр Арбитров
+~ Реестр участков планеты Земля
+~ Реестр автомобилей
+~ Реестр Звездных кораблей
+~ Реестр организаций
+~ Реестр культурных объектов находящихся под охраной
+~ Реестр Небесной Дружины
+~ Реестр Звездной Рати
+
 ## Как мы оздоравливаем мировую экономику
 
 https://www.i-am-avatar.com/blog/item?id=421
@@ -52,16 +66,30 @@ https://www.i-am-avatar.com/blog/item?id=419
 
 ## КОПное право
 
+Державное строительство Выпуск 7. Особенности КОПного устройства. Алексей Орлов и Александр Соколов
 https://www.youtube.com/watch?v=g07pnaW6mJk
+
 https://www.youtube.com/watch?v=EO-H5Moz5Ak
+
 https://www.youtube.com/watch?v=Rfal5NRjMMA
+
 https://www.youtube.com/watch?v=_UXdTH4ZGYU
+
 https://www.youtube.com/watch?v=ry9q4_BiptE
+
 https://www.youtube.com/watch?v=m7BEdeIfoUM
+
 https://www.youtube.com/watch?v=e2CH4sQMUJg
+
 https://www.youtube.com/watch?v=OWJLsISqSoY
+
 https://www.youtube.com/watch?v=WPlpzH1dr_g
+
 https://www.youtube.com/playlist?list=PLdYj2kh3R_eZ_rqbkKWF9D-okXNqsO_tU
+
+## Многомерной Социальной Игры «Править Землей и Славить Богов»
+
+http://galaxysss.ru/newEarth/game
 
 ## Ответы на вопросы по созданию DAO Многомерной Социальной Игры «Править Землей и Славить Богов»
 
