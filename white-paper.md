@@ -41,16 +41,16 @@ https://www.i-am-avatar.com/site/about
 https://www.i-am-avatar.com/blog/item?id=421
 
 
-##Монета платформы ЯАватар
+## Монета платформы ЯАватар
 
 https://www.i-am-avatar.com/site/elixir
 
 
-##Цифровые авторские права в проекте ЯАватар
+## Цифровые авторские права в проекте ЯАватар
 
 https://www.i-am-avatar.com/blog/item?id=419
 
-##КОПное право
+## КОПное право
 
 https://www.youtube.com/watch?v=g07pnaW6mJk
 https://www.youtube.com/watch?v=EO-H5Moz5Ak
@@ -63,10 +63,10 @@ https://www.youtube.com/watch?v=OWJLsISqSoY
 https://www.youtube.com/watch?v=WPlpzH1dr_g
 https://www.youtube.com/playlist?list=PLdYj2kh3R_eZ_rqbkKWF9D-okXNqsO_tU
 
-##Ответы на вопросы по созданию DAO Многомерной Социальной Игры «Править Землей и Славить Богов»
+## Ответы на вопросы по созданию DAO Многомерной Социальной Игры «Править Землей и Славить Богов»
 
 https://www.i-am-avatar.com/blog/item?id=433
 
-##Как мы запускаем нашу Многомерную Социальную Игру «Править Землей и Славить Богов»
+## Как мы запускаем нашу Многомерную Социальную Игру «Править Землей и Славить Богов»
 
 https://www.i-am-avatar.com/blog/item?id=414
