@@ -96,6 +96,7 @@ https://www.i-am-avatar.com/blog/item?id=421
 
 https://www.i-am-avatar.com/site/elixir
 
+[images/sheme.png]
 
 ## Цифровые авторские права в проекте ЯАватар
 
