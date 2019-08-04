@@ -244,6 +244,6 @@ https://www.i-am-avatar.com/blog/item?id=433
 https://www.i-am-avatar.com/blog/item?id=414
 
 
-## модель построения идеального мира
+## Модель построения идеального мира
 
 https://www.draw.io/#G1OcJpBHErD3uPj24zjNEY1eL0j2xhZ06N
