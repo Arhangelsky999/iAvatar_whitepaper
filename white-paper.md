@@ -113,6 +113,8 @@ https://www.i-am-avatar.com/site/elixir
 
 ## Схема проекта ЯАватар
 
+https://www.draw.io/#G1z8niWjdQhOeVVym5HZdNHKgVOcALQrmi
+
 ![Схема](images/sheme.png)
 
 Справа реализация технического уроавня, слева реализация Социального уровня. Технический уровень соединяется с Социальным через Золотой Эликсир.
@@ -240,3 +242,8 @@ https://www.i-am-avatar.com/blog/item?id=433
 ## Как мы запускаем нашу Многомерную Социальную Игру «Править Землей и Славить Богов»
 
 https://www.i-am-avatar.com/blog/item?id=414
+
+
+## модель построения идеального мира
+
+https://www.draw.io/#G1OcJpBHErD3uPj24zjNEY1eL0j2xhZ06N
