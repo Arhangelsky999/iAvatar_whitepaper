@@ -231,6 +231,9 @@ https://www.youtube.com/watch?v=WPlpzH1dr_g
 МСУ (Местное Само Управление)
 https://www.youtube.com/playlist?list=PLdYj2kh3R_eZ_rqbkKWF9D-okXNqsO_tU
 
+Голосование (тайное)
+https://www.youtube.com/watch?v=LPxI1r4jZME
+
 ## Многомерная Социальная Игра «Править Землей и Славить Богов»
 
 http://galaxysss.ru/newEarth/game
